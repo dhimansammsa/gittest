@@ -2,6 +2,7 @@
 echo 'sssssss';
 echo 'lllllll';
 echo 'zzzzzzzz';
+echo 'kkkkk';
 exit;
 // Get cURL resource
 /*$curl = curl_init();
