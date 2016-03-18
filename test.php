@@ -1,6 +1,7 @@
 <?php
 echo 'sssssss';
 echo 'lllllll';
+echo 'zzzzzzzz';
 exit;
 // Get cURL resource
 /*$curl = curl_init();
